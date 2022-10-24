@@ -1,1 +1,9 @@
 # Python_Whole
+Sl.No | Topic Covered
+------|--------------
+001 | <strong><tt>print()</tt></strong> 
+002 | Comments
+003 | Escape Sequences
+004 | Variables
+005 | Precision & Field_Width
+006 | Operators
