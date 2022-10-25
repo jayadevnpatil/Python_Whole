@@ -7,3 +7,5 @@ Sl.No | Topic Covered
 004 | Variables
 005 | Precision & Field_Width
 006 | Operators
+007 | String
+008 | List
