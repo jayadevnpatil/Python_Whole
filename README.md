@@ -9,3 +9,6 @@ Sl.No | Topic Covered
 006 | Operators
 007 | String
 008 | List
+009 | Tuple
+010 | Dictionary
+011 | Sets
